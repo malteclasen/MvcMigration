@@ -1,0 +1,11 @@
+*.user
+*.suo
+*/bin/*
+*/obj/*
+*/pkg/*
+*/pkgobj/*
+_ReSharper.*
+*.opensdf
+*.sdf
+*.ReSharper
+sys$command
